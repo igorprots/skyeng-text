@@ -1,0 +1,127 @@
+<vim-content-section>
+    <vim-content-section-title>
+        <h1>Step 2</h1>
+    </vim-content-section-title>
+    <p>
+        <vim-instruction>Задание:</vim-instruction> Match the questions to the answers
+    </p>
+    <vim-content-section-content>
+
+        <p>
+            <vim-instruction>упражнение dnd group</vim-instruction>
+            (Шпаргалка по тегам строка: 79)
+            <vim-hint>
+                <vim-hint-caption>
+                    (Шпаргалка по тегам строка: 79)
+                </vim-hint-caption>
+                <vim-hint-content>dnd text</vim-hint-content>
+            </vim-hint>
+        </p>
+
+
+        <vim-groups skills="grammar,spelling">
+            <vim-groups-row grammar-node-ids="10,30">
+                <vim-groups-item>What’s your name?</vim-groups-item>
+                <vim-groups-item>I am<vim-word vim-target meaning-id="6633">Max.</vim-word>.</vim-groups-item>
+            </vim-groups-row>
+            <vim-groups-row grammar-node-ids="10,30">
+                <vim-groups-item>How old are you?</vim-groups-item>
+                <vim-groups-item>I am<vim-word vim-target meaning-id="6633">14.</vim-word>.</vim-groups-item>
+            </vim-groups-row>
+            <vim-groups-row grammar-node-ids="10,30">
+                <vim-groups-item>What’s up?</vim-groups-item>
+                <vim-groups-item>I am<vim-word vim-target meaning-id="6633">fine!</vim-word>.</vim-groups-item>
+            </vim-groups-row>
+            <vim-groups-row grammar-node-ids="10,30">
+                <vim-groups-item>Where are you from?</vim-groups-item>
+                <vim-groups-item>I am<vim-word vim-target meaning-id="6633">from Russia.</vim-word>.</vim-groups-item>
+            </vim-groups-row>
+            <vim-groups-row grammar-node-ids="10,30">
+                <vim-groups-item>What’s your favourite colour?</vim-groups-item>
+                <vim-groups-item>I is<vim-word vim-target meaning-id="6633">green.</vim-word>.</vim-groups-item>
+            </vim-groups-row>
+            <vim-groups-row grammar-node-ids="10,30">
+                <vim-groups-item>What’s your phone number?</vim-groups-item>
+                <vim-groups-item>I is<vim-word vim-target meaning-id="6633">1-112-334-556.</vim-word>.</vim-groups-item>
+            </vim-groups-row>
+
+        </vim-groups>
+
+
+        <p>
+            <vim-instruction>Задание:</vim-instruction> Read the sentences and complete them with the words from the box
+        </p>
+
+        <p>
+            <vim-instruction>упражнение dnd text</vim-instruction>
+            (Шпаргалка по тегам строка: 72)
+            <vim-hint>
+                <vim-hint-caption>
+                    (Шпаргалка по тегам строка: 72)
+                </vim-hint-caption>
+                <vim-hint-content>dnd text</vim-hint-content>
+            </vim-hint>
+        </p>
+
+        <p>
+            <vim-dnd-text skills="grammar,spelling">
+                <vim-dnd-text-drags>
+                    <vim-dnd-text-drag id=" 1">
+                        <vim-word vim-target meaning-id=" 6633">I</vim-word>
+                    </vim-dnd-text-drag>
+                    <vim-dnd-text-drag id=" 2">
+                        <vim-word vim-target meaning-id=" 6633">am</vim-word>
+                    </vim-dnd-text-drag>
+                    <vim-dnd-text-drag id=" 3">
+                        <vim-word vim-target meaning-id=" 6633">They</vim-word>
+                    </vim-dnd-text-drag>
+                    <vim-dnd-text-drag id=" 4">
+                        <vim-word vim-target meaning-id=" 6633">are</vim-word>
+                    </vim-dnd-text-drag>
+                    <vim-dnd-text-drag id=" 5">
+                        <vim-word vim-target meaning-id=" 6633">is</vim-word>
+                    </vim-dnd-text-drag>
+                    <vim-dnd-text-drag id=" 6">
+                        <vim-word vim-target meaning-id=" 6633">He</vim-word>
+                    </vim-dnd-text-drag>
+                    <vim-dnd-text-drag id=" 7">
+                        <vim-word vim-target meaning-id=" 6633">She</vim-word>
+                    </vim-dnd-text-drag>
+                </vim-dnd-text-drags>
+                <vim-dnd-text-content>
+                    Hello! My name is Tanya.
+                    <vim-dnd-text-drop drag-ids="1" comment="blabla" grammar-node-ids="10,30" />
+                    am from Russia.
+                </vim-dnd-text-content>
+                <vim-dnd-text-content>
+                    I
+                    <vim-dnd-text-drop drag-ids="2" comment="blabla" grammar-node-ids="10,30" />
+                    Russian. I have friends
+                </vim-dnd-text-content>
+                <vim-dnd-text-content>
+                    <vim-dnd-text-drop drag-ids="3" comment="blabla" grammar-node-ids="10,30" />
+                    are from Russia,too.
+                </vim-dnd-text-content>
+                <vim-dnd-text-content>
+                    They
+                    <vim-dnd-text-drop drag-ids="4" comment="blabla" grammar-node-ids="10,30" />
+                    Russian.
+                </vim-dnd-text-content>
+                <vim-dnd-text-content>
+                    Roma
+                    <vim-dnd-text-drop drag-ids="5" comment="blabla" grammar-node-ids="10,30" />
+                    fifteen.
+                </vim-dnd-text-content>
+                <vim-dnd-text-content>
+                    <vim-dnd-text-drop drag-ids="6" comment="blabla" grammar-node-ids="10,30" />
+                    is a punk.
+                </vim-dnd-text-content>
+                <vim-dnd-text-content>
+                    <vim-dnd-text-drop drag-ids="7" comment="blabla" grammar-node-ids="10,30" />
+                    is a gamer.
+                </vim-dnd-text-content>
+            </vim-dnd-text>
+        </p>
+
+    </vim-content-section-content>
+</vim-content-section>
